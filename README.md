@@ -61,6 +61,3 @@ Report:
 - Open Baltimore Data for providing the gun crimes dataset.
 - Microsoft for developing SSIS, SQL Server, and Power BI.
 
----
-
-Feel free to customize this README file according to your project's specific details and requirements. Good luck with your project!
